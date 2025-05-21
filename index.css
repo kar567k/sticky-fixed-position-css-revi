@@ -1,0 +1,45 @@
+*{
+    /* margin: 0; */
+    padding: 0;
+    font-family:serif ;
+    scroll-behavior: smooth;
+}
+
+a{
+    text-decoration: none;
+    color: white
+}
+nav{
+    display: inline-block;
+    /* border: 2px solid; */
+    margin-left: 100px;
+    font-size: 24px;
+   
+}
+ header{
+    background-color: black;
+    padding: 20px;
+    position: sticky;
+    top: 0px;
+} 
+p{
+    text-align: justify;
+    text-align-last: center;
+    padding: 10px;
+}
+.item{
+    padding: 20px;
+    font-size: 24px;
+    text-align: center;
+    background-color: lightcoral;
+    color: #ffe;
+    position: sticky;
+    top: 0px;
+}
+i {
+    font-size: 3rem;
+    color: red;
+    position: fixed;
+    bottom: 100px;
+    right: 30px;  
+}
